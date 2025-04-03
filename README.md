@@ -1,1 +1,0 @@
-# ExamenMySQL2JuanPinilla
